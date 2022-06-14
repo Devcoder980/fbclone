@@ -14,7 +14,9 @@ https://twitter.com/BindPrabhudevJK
 https://www.frontendmentor.io/profile/Devcoder980
 ## 🛠 Skills
 Javascript, HTML, CSS...
+
 Tailwing css Fremework
+
 python
 c
 
